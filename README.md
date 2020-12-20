@@ -30,7 +30,8 @@ Unfortunately, they also share another similarity which must be considered.  The
 
 The first statistic I explored was the type of customers.  If it is tourists mainly using the bikes, then the business model probably wouldn't be successful in Des Moines since that is not such a big tourist destination.  
 
-![](https://github.com/xactuary/bikesharing/blob/main/CustomerType.PNG)
+![](https://github.com/xactuary/bikesharing/blob/main/CustomerType.PNG)  
+
 This pie chart displays how more than 80% of Citibike customers are subscribers rather than one time users.  This is an indication that over 80% of riders are using the bicycles regularly which implies they are not tourists but a continuous source of income to the business.  
 
 ####  Peak Hours of Use
@@ -38,7 +39,7 @@ This pie chart displays how more than 80% of Citibike customers are subscribers 
 The next statistic I examined to determine what type of business this might be is to look at the peak hours of use.  If it is mostly tourists, then the peak hours will be during the middle of the day when the bikes would be used for sight seeing rather than commuting.  
 
 ![](https://github.com/xactuary/bikesharing/blob/main/PeakHours.PNG)
-
+  
 This graph indicates that the peak hours are between 5 pm and 7 pm (17-19 on 24 hour clock).  In addition, there is a surge at the 8 am time slot.  These are the commute hours and definetely not the tourist hours.  This is another indications that there is a big commuter usage of the bicycles.  
 
 
