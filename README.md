@@ -46,7 +46,11 @@ This graph indicates that the peak hours are between 5 pm and 7 pm (17-19 on 24 
 
 Another statistic of interest is the usage by hour by the day of the week.  The following plot is a heat map showing the most heaviest used hours by days of the week.
   
-![](https://github.com/xactuary/bikesharing/blob/main/HeatHours.PNG)
+![](https://github.com/xactuary/bikesharing/blob/main/HeatHours.PNG)  
+
+So not only are the commute hours the most popular, but the commuter days are also the most heavily used at those times.  So Monday, Tuesday and Thursday at 5 pm are showing the most usage.  In addition, however, there is usage on the weekends which implies there is a leisure target market as well.  With Des Moines having paved bicycle paths, this may also be a leisure activity that locals and visitors might pursue on the weekends.  
+ 
+
 
 
 
