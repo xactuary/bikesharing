@@ -56,6 +56,16 @@ We may clean some insight as well into how the bicycle usage varies by gender of
   
 ![](https://github.com/xactuary/bikesharing/blob/main/Gender1.PNG)  
 
+This chart reveals that more than twice as many bikes are being used by males than females at the peak hours.  This can give the business an idea that any marketing should be targeting males.  In Des Moines, the population breakdown of male versus female is 49.3% according to to Census.gov data.  This compares to NYC where the proportion is only 47.7%.  So there may actually be an advantage to Des Moines in capturing the commuter market because there are proportionately more men.
+
+#### Gender by Hour of Day
+
+The following heat map displays how the significant commute time usage is by males rather than females.  There is a small surge in the female population in the commute hours but no where near as much as in the male population.  This may imply that females are more likely using the bicycles for leisure activity whereas males are using it for commuting.  This again would give the business some insight into how to target the marketing of the product.
+
+![](https://github.com/xactuary/bikesharing/blob/main/GenderTripsPerHour.PNG)  
+
+
+
 
 
 
