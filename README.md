@@ -17,7 +17,7 @@ Citibike ride data including the following fields:
 
 ## Introduction
 
-It might seem like a big leap to compare bike sharing data from a large metropolitan city like NYC to a midwest city like Des Moines.  However, I will show that there are certain similarities in the bike sharing business which suggests that Des Moines may very well be a good target for this business.  There are two main points that make the cities similar:
+It might seem like a big leap to compare bike sharing data from a large metropolitan city like NYC to a midwest city like Des Moines.  However, I will show that there are certain similarities in the bike sharing business which suggests that Des Moines may very well be a good target for this business.  There are three main points that make the cities similar:
 1.  They both have similar flat topography which is conducive to bicycling.
 2.  They both have many miles of paved bicycle paths through their downtown areas.  Des Moines has 63 miles of paved bike paths through their downtown according to the city website.  NYC has been increasing bike lanes significantly over the past few years as more bicycling is catching on.
 3.  They are both cities with commuters. 
@@ -28,7 +28,7 @@ Unfortunately, they also share another similarity which must be considered.  The
 
 ####  Customer Type
 
-The first statistic I explored was the type of customers.  If it is tourists mainly using the bikes, then the business model probably wouldn't be successful in Des Moines since that is not such a big tourist destination.  
+The first statistic I explored was the type of customers.  If it is tourists mainly using the bikes, then the business model probably wouldn't be successful in Des Moines since this city is not that big of a tourist destination.  
 
 ![](https://github.com/xactuary/bikesharing/blob/main/CustomerType.PNG)  
 
@@ -40,39 +40,39 @@ The next statistic I examined to determine what type of business this might be i
 
 ![](https://github.com/xactuary/bikesharing/blob/main/PeakHours.PNG)
   
-This graph indicates that the peak hours are between 5 pm and 7 pm (17-19 on 24 hour clock).  In addition, there is a surge at the 8 am time slot.  These are the commute hours and definitely not the tourist hours.  This is another indications that there is a big commuter usage of the bicycles.  
+This graph indicates that the peak hours are between 5 pm and 7 pm (17-19 on 24 hour clock).  In addition, there is a surge at the 8 am time slot.  These are the commute hours and definitely not the tourist hours.  This is another indication that there is a big commuter usage of the bicycles.  
 
 #### Days of Week
 
-Another statistic of interest is the usage by hour by the day of the week.  The following plot is a heat map showing the most heaviest used hours by days of the week.
+Another statistic of interest is the usage by hour by the day of the week.  The following plot is a heat map showing the heaviest usage hours by day of the week.
   
 ![](https://github.com/xactuary/bikesharing/blob/main/HeatHours.PNG)  
 
-So not only are the commute hours the most popular, but the commuter days are also the most heavily used at those times.  So Monday, Tuesday and Thursday at 5 pm are showing the most usage.  In addition, however, there is usage on the weekends which implies there is a leisure target market as well.  With Des Moines having paved bicycle paths, this may also be a leisure activity that locals and visitors might pursue on the weekends.  
+The darkest shaded areas show the heaviest usage.  So not only are the commute hours the most popular, but the commuter days (Mon-Fri) are also the most heavily used at those times.  So Monday, Tuesday and Thursday at 5 pm are showing the most usage.  In addition, however, there is also usage on the weekends which implies there is a leisure market as well.  With Des Moines having paved bicycle paths, this may also be a leisure activity that locals and visitors might pursue on the weekends.  
 
 #### Gender
 
-We may clean some insight as well into how the bicycle usage varies by gender of rider.  This first chart displays how there are significantly more males using the bike sharing program than females.
+We may also glean some insight into this business by reviewing how the bicycle usage varies by gender of rider.  This first chart displays how there are significantly more males using the bike sharing program than females.
   
 ![](https://github.com/xactuary/bikesharing/blob/main/Gender1.PNG)  
 
-This chart reveals that more than twice as many bikes are being used by males than females at the peak hours.  This can give the business an idea that any marketing should be targeting males.  In Des Moines, the population breakdown of male versus female is 49.3% according to to Census.gov data.  This compares to NYC where the proportion is only 47.7%.  So there may actually be an advantage to Des Moines in capturing the commuter market because there are proportionately more men.
+This chart reveals that more than twice as many bikes are being used by males than females at the peak hours.  This can give the business an idea that any marketing should be targeting males for commuter use.  In Des Moines, the population breakdown of male versus female is 49.3% according to to Census.gov data.  This compares to NYC where the proportion is only 47.7%.  So there may actually be an advantage to Des Moines in capturing the commuter market because there are proportionately more men.
 
 #### Gender by Hour of Day
 
-The following heat map displays how the significant commute time usage is by males rather than females.  There is a small surge in the female population in the commute hours but no where near as much as in the male population.  This may imply that females are more likely using the bicycles for leisure activity whereas males are using it for commuting.  This again would give the business some insight into how to target the marketing of the product.
+The following heat map displays how the significant commute time usage is dominated by males rather than females.  By looking at where the orange boxes get darker, you can see where the heaviest usage is.  There is a small surge in the female population in the commute hours but no where near as much as in the male population.  This may imply that females are more likely to be using the bicycles for leisure activity whereas males are using it for commuting.  This again would give the business some insight into how to target the marketing of the product.
 
 ![](https://github.com/xactuary/bikesharing/blob/main/GenderTripsPerHour.PNG)  
 
 #### Gender by Weekday by Usertype
  
-This chart narrows down the information specifically to weekday by gender split by usertype.  This makes it very clear that the males are preponderance of the midweek subscriber commuters whereas the leisure customers are spread a little more equally between males and females.  
+This chart narrows down the information specifically to weekday by gender split by usertype.  This makes it very clear that the males make up the preponderance of the midweek subscriber commuters whereas the leisure customers are spread a little closer between males and females.  
 
 ![](https://github.com/xactuary/bikesharing/blob/main/GenderbyWeekday.PNG) 
 
 #### Duration of Usage
 
-Now that we have looked at what types of users we would expect to see and perhaps what population to target commuting purpose to versus leisure purpose, let's look at how much usage the bicycles are getting overall to see if this is a viable business.
+Now that we have looked at what types of users we would expect to see and perhaps what population to target for commuting purpose versus leisure purpose, let's look at how much usage the bicycles are getting overall to see if this is a viable business.
   
 This graph shows the overall average usage by number of bicycles.  
 
@@ -80,7 +80,11 @@ This graph shows the overall average usage by number of bicycles.
 
 This graph reveals that there is a huge number of bicycles being used for a significant amount of time with an average usage of 5-6 hours.  If the business charges by the hour, then there is a decent potential for income.  In addition, if this long usage is due to commuters, then this significant usage suggests that there could be longetivity to the subscriber model keeping a steady income coming in.  
 
-I would suggest also looking at this statistic of trip duration by usertype to see the difference in usage for subscribers (commuters) versus customers (leisure riders) to further establish this hypothesis.
+## Summary
+
+This analysis has shown that the bike sharing business is more utilized by the commuting population than the leisure population which makes any commuter city a potentially viable opportunity for a ride sharing business.  In addition, marketing can be targeted to males for the commuting market and to females for the leisure market leading to a more efficient marketing plan.  The fact that the subscriber model makes up the majority of the market for bike sharing, suggests that this is a business that can have income continuity.  
+
+I would suggest also looking at the trip duration of usage analysis by usertype to see if there is a difference in usage for subscribers (commuters) versus customers (leisure riders) to further establish the marketing model.  
 
 
 
