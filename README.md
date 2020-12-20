@@ -40,7 +40,14 @@ The next statistic I examined to determine what type of business this might be i
 
 ![](https://github.com/xactuary/bikesharing/blob/main/PeakHours.PNG)
   
-This graph indicates that the peak hours are between 5 pm and 7 pm (17-19 on 24 hour clock).  In addition, there is a surge at the 8 am time slot.  These are the commute hours and definetely not the tourist hours.  This is another indications that there is a big commuter usage of the bicycles.  
+This graph indicates that the peak hours are between 5 pm and 7 pm (17-19 on 24 hour clock).  In addition, there is a surge at the 8 am time slot.  These are the commute hours and definitely not the tourist hours.  This is another indications that there is a big commuter usage of the bicycles.  
+
+#### Days of Week
+
+Another statistic of interest is the usage by hour by the day of the week.  The following plot is a heat map showing the most heaviest used hours by days of the week.
+  
+![](https://github.com/xactuary/bikesharing/blob/main/HeatHours.PNG)
+
 
 
 
