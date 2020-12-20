@@ -89,9 +89,7 @@ I would suggest also looking at the trip duration of usage analysis by usertype 
 Another visualization that would be interesting for the marketing model is to look at the breakdown of usertype by gender by starting station to see where these different populations are using the bikes.  In NYC, this would help to see if these are leisure riders based on if the bike stations are near parks versus businesses.  
 
 
-
-
-
+[link to dashboard](https://public.tableau.com/profile/betsy.wellington#!/vizhome/CitibikeChallengeGraphs/Story1?publish=yes "link to dashboard")
 
 
 
