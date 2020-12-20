@@ -82,9 +82,11 @@ This graph reveals that there is a huge number of bicycles being used for a sign
 
 ## Summary
 
-This analysis has shown that the bike sharing business is more utilized by the commuting population than the leisure population which makes any commuter city a potentially viable opportunity for a ride sharing business.  In addition, marketing can be targeted to males for the commuting market and to females for the leisure market leading to a more efficient marketing plan.  The fact that the subscriber model makes up the majority of the market for bike sharing, suggests that this is a business that can have income continuity.  
+This analysis has shown that the bike sharing business is more utilized by the commuting population than the leisure population which makes any commuter city a potentially viable opportunity for a ride sharing business.  the fact that Des Moines already has bike paths through its downtown areas suggests that the bike sharing model might be successful there.  In addition, marketing can be targeted to males for the commuting market and to females for the leisure market leading to a more efficient marketing plan.  The fact that the subscriber model makes up the majority of the market for bike sharing, suggests that this is a business that can have income continuity.  
 
 I would suggest also looking at the trip duration of usage analysis by usertype to see if there is a difference in usage for subscribers (commuters) versus customers (leisure riders) to further establish the marketing model.  
+
+Another visualization that would be interesting for the marketing model is to look at the breakdown of usertype by gender by starting station to see where these different populations are using the bikes.  In NYC, this would help to see if these are leisure riders based on if the bike stations are near parks versus businesses.  
 
 
 
