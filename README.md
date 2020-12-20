@@ -49,7 +49,17 @@ Another statistic of interest is the usage by hour by the day of the week.  The 
 ![](https://github.com/xactuary/bikesharing/blob/main/HeatHours.PNG)  
 
 So not only are the commute hours the most popular, but the commuter days are also the most heavily used at those times.  So Monday, Tuesday and Thursday at 5 pm are showing the most usage.  In addition, however, there is usage on the weekends which implies there is a leisure target market as well.  With Des Moines having paved bicycle paths, this may also be a leisure activity that locals and visitors might pursue on the weekends.  
- 
+
+#### Gender
+
+We may clean some insight as well into how the bicycle usage varies by gender of rider.  This first chart displays how there are significantly more males using the bike sharing program than females.
+  
+![](https://github.com/xactuary/bikesharing/blob/main/Gender1.PNG)  
+
+
+
+
+
 
 
 
