@@ -76,7 +76,13 @@ Now that we have looked at what types of users we would expect to see and perhap
   
 This graph shows the overall average usage by number of bicycles.  
 
-![](https://github.com/xactuary/bikesharing/blob/main/AvgDuration.PNG) 
+![](https://github.com/xactuary/bikesharing/blob/main/AvgDuration.PNG)  
+
+This graph reveals that there is a huge number of bicycles being used for a significant amount of time with an average usage of 5-6 hours.  If the business charges by the hour, then there is a decent potential for income.  In addition, if this long usage is due to commuters, then this significant usage suggests that there could be longetivity to the subscriber model keeping a steady income coming in.  
+
+I would suggest also looking at this statistic of trip duration by usertype to see the difference in usage for subscribers (commuters) versus customers (leisure riders) to further establish this hypothesis.
+
+
 
 
 
