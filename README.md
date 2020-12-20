@@ -66,9 +66,24 @@ The following heat map displays how the significant commute time usage is by mal
 
 #### Gender by Weekday by Usertype
  
-This chart narrows down the information specifically to weekday by gender split by usertype.  This makes it very clear that the males are the midweek subscriber commuters whereas the leisure customers are spread a little more equally between males and females.  
+This chart narrows down the information specifically to weekday by gender split by usertype.  This makes it very clear that the males are preponderance of the midweek subscriber commuters whereas the leisure customers are spread a little more equally between males and females.  
 
 ![](https://github.com/xactuary/bikesharing/blob/main/GenderbyWeekday.PNG) 
+
+#### Duration of Usage
+
+Now that we have looked at what types of users we would expect to see and perhaps what population to target commuting purpose to versus leisure purpose, let's look at how much usage the bicycles are getting overall to see if this is a viable business.
+  
+This graph shows the overall average usage by number of bicycles.  
+
+![](https://github.com/xactuary/bikesharing/blob/main/AvgDuration.PNG) 
+
+
+
+
+
+
+
 
 
 
