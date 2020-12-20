@@ -66,9 +66,11 @@ The following heat map displays how the significant commute time usage is by mal
 
 #### Gender by Weekday by Usertype
  
-This chart narrows down the information specifically to weekday by gender splite between usertype.  This makes it very clear that the males are the midweek subscriber commuters whereas the leisure customers are spread a little more equally between males and females.  
+This chart narrows down the information specifically to weekday by gender split by usertype.  This makes it very clear that the males are the midweek subscriber commuters whereas the leisure customers are spread a little more equally between males and females.  
 
 ![](https://github.com/xactuary/bikesharing/blob/main/GenderbyWeekday.PNG) 
+
+
 
 
 
