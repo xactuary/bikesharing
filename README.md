@@ -30,4 +30,8 @@ Unfortunately, they also share another similarity which must be considered.  The
 
 The first statistic I explored was the type of customers.  If it is tourists mainly using the bikes, then the business model probably wouldn't be successful in Des Moines since that is not such a big tourist destination.  
 
+![](https://github.com/xactuary/bikesharing/blob/main/CustomerType.PNG)
+
+
+
 
