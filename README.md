@@ -15,4 +15,12 @@ Citibike ride data including the following fields:
 8. Birth Year of rider
 9. Gender of rider
 
+## Introduction
+
+It might seem like a big leap to compare bike sharing data from a large metropolitan city like NYC to a midwest city like Des Moines.  However, I will show that there are certain similarities in the bike sharing business which suggests that Des Moines may very well be a good target for this business.  There are two main points that make the cities similar:
+1.  They both have similar flat topography which is conducive to bicycling
+2.  They both have many miles of paved bicycle paths through their downtown areas.  Des Moines has 63 miles of paved bike paths through their downtown according to the city website.  NYC has been increasing bike lanes significantly over the past few years as more bicycling is catching on.
+
+Unfortunately, they also share another similarity which must be considered.  They are both in the top 10 most dangerous bicycling cities in the US according to a study published by "Your Local Security."  This study indicates that the danger is largely due to minimal bicycle safety laws in place.  So before embarking on a bike sharing business, any investors should explore liability issues that may come up due to the danger of riding bikes in cities like these.
+
 
